@@ -26,7 +26,7 @@
 
 ### 1. 🎯 Supervised Learning
 > Models trained on labeled data where inputs are paired with target outputs.
-
+<hr>
 - **Classification** *(Predicting discrete categorical labels)*
   * 📊 **Logistic Regression:** Models the probability of a binary outcome.
   * ⚡ **Support Vector Machines (SVM):** Finds the optimal hyperplane separating data classes.
@@ -44,7 +44,7 @@
 
 ### 2. 🔍 Unsupervised Learning
 > Models that discover hidden patterns, groupings, or representations in unlabeled data.
-
+---
 - **Clustering** *(Grouping similar data points together)*
   * 📍 **K-Means:** Partitions data into $K$ clusters based on distance to cluster centroids.
   * 🌳 **Hierarchical Clustering:** Builds nested clusters in a tree-like dendrogram structure.
@@ -60,7 +60,7 @@
 
 ### 3. 🎮 Reinforcement Learning
 > Agents learning to make sequences of decisions by interacting with an environment to maximize cumulative rewards.
-
+---
 - 🎯 **Q-Learning:** Model-free, off-policy algorithm learning optimal action-value functions.
 - 🔄 **SARSA:** Model-free, on-policy algorithm updating state-action values based on executed actions.
 ``SETTINGS: USE CODE BLOCK ABOVE DIRECTLY``
