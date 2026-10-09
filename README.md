@@ -20,7 +20,7 @@
        ├─ Random Forest
        └─ KNN
 ```
-
+<hr>
 
 # 📚 Machine Learning Topics Breakdown
 
